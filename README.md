@@ -62,7 +62,7 @@ The goal is to make mental health support more accessible through a scalable AI-
 4. Run the chatbot interaction script from a terminal or notebook
 5. Extend or integrate with a UI for production deployment
 
-## Model Trained
+## Model Trained (Huggingface link)
 
 [https://huggingface.co/sridevisundar21/MentalHealthAssistant/tree/main](https://huggingface.co/sridevisundar21/MentalHealthAssistant/tree/main)
 
